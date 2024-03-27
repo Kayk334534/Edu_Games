@@ -1,6 +1,6 @@
 function login(){
-    window.location.href = "Tela_Login.html"
+    window.location.href = "tela_Login.html"
   }
   function contato(){
-    window.location.href = "Contato.html"
+    window.location.href = "contato.html"
   }
